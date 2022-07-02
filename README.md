@@ -1,2 +1,2 @@
-# latihan-website-sederhana
-Membuat website sederhana tentang provinsi Lampung
+# latihan-halaman-sederhana
+Membuat halaman sederhana tentang provinsi Lampung
